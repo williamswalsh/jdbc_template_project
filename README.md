@@ -1,4 +1,4 @@
 # JDBC Project
 
-Project to demo Spring JPA, JDBC & Hibernate features.
+Project to demo Spring JDBC Template. 
 
